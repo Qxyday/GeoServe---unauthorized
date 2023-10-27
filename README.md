@@ -3,16 +3,16 @@ GeoServer It is an open source software server used for editing and publishing g
 /geoserver/gwc/rest   Access prompt login window
 /geoserver/gwc/rest.html  Directly access the logged in page
 
-http://112.29.170.250:8083/geoserver/gwc/rest
-![image](https://github.com/Qxyday/GeoServe---unauthorized/assets/148453660/44efb636-1065-435b-9fac-f0e02c1867f4)
+http://1xx.29.1xx.250:8083/geoserver/gwc/rest
+
 Enter the default password admin/geoserver
-![image](https://github.com/Qxyday/GeoServe---unauthorized/assets/148453660/1663399d-898b-4466-a2f8-addae0219c11)
-http://112.29.170.250:8083/geoserver/gwc/rest.html
+
+http://1xx.29.1xx.250:8083/geoserver/gwc/rest.html
 You can directly access the logged in page
-![image](https://github.com/Qxyday/GeoServe---unauthorized/assets/148453660/b58883e2-ad61-4772-a737-66632e217ec8)
+
 
 
 example：
-http://82.76.36.89:6488/geoserver/gwc/rest.html
-http://47.105.153.193:8080/geoserver/gwc/rest.html
-http://89.116.24.253:9090/geoserver/gwc/rest.html
+http://82.76.xx.xx:6488/geoserver/gwc/rest.html
+http://47.1xx.xx.193:8080/geoserver/gwc/rest.html
+http://89.xx.24.xx:9090/geoserver/gwc/rest.html
